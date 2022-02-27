@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two iudgements of the Lords assembled in Parliament: against John Morris alias Poyntz. Mary his wife. Isabell Smith. Leonard Darby. And John Harris. For forging, framing, and publishing a copy of a pretended act of Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83917</idno>
+            <idno type="STC">Wing E2852</idno>
+            <idno type="STC">Thomason E416_9</idno>
+            <idno type="STC">ESTC R204473</idno>
+            <idno type="EEBO-CITATION">99863963</idno>
+            <idno type="PROQUEST">99863963</idno>
+            <idno type="VID">116181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116181)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two iudgements of the Lords assembled in Parliament: against John Morris alias Poyntz. Mary his wife. Isabell Smith. Leonard Darby. And John Harris. For forging, framing, and publishing a copy of a pretended act of Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The two judgements are dated 21 September and 2 November 1647.</note>
+                  <note>Annotation on Thomason copy: "Nou: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poyntz, John, fl. 1647-1650.</term>
+               <term>Forgery --  England --  Early works to 1800.</term>
+               <term>Trials (Forgery) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116181:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>TWO Iudgements OF THE LORDS Aſſembled in PARLIAMENT: AGAINST
+<list>
+                  <item>John Morris alias Poyntz.</item>
+                  <item>Mary his wife.</item>
+                  <item>Iſabell Smith.</item>
+                  <item>Leonard Darby.</item>
+                  <item>And John Harris.</item>
+               </list> 
+For forging, framing, and publiſhing a Copy of a pretended Act of PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_judgement">
+            <pb facs="tcp:116181:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:116181:2"/>
+            <!-- PDF PAGE 65 -->
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Martis</hi> 21 Septemb. 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas <hi>John Brown</hi> Eſquire, Clerke of the Parliaments, did the 25. of June, 1647. exhibite a Charge before the Lords in Parliament againſt <hi>John Morris, alias Poyntz, Mary</hi> his wife, <hi>Iſabell Smith, Leo<g ref="char:EOLhyphen"/>nard Darby,</hi> and <hi>John Harris,</hi> for forging, framing, and publiſhing a Copy of a pretended Act of Par<g ref="char:EOLhyphen"/>liament, alleadged to have been made at 43 <hi>Elizabeth,</hi> and intituled, <q>
+                  <hi>An Act to inable and make good a conveyance and aſſurance made of the Mannours of Chipping Onger, Nor<g ref="char:EOLhyphen"/>thokenden, Southokenden, and other Lands in the County of Eſſex, and Beaves Markes, alias Buries-Markes in London, by James Morris Eſquire, and Gabriel Poyntz Eſquire, to John Poyntz, alias Morris, and his Heires, and to eſtabliſh the ſaid Mannours upon the ſaid John Poyntz, alias Morris, and his heires, according to the ſaid Conveyance.</hi>
+               </q> Whereas in truth there neither is, nor ever was any ſuch Act of Parliament; And for forging and counterfeiting his hand writing, and ſubſcribing to the ſaid Copy <hi>Joh. Brown Cleric. Par<g ref="char:EOLhyphen"/>liamentorum.</hi> And the better to colour their leud practi<g ref="char:EOLhyphen"/>ſes, have charged the ſaid <hi>John Brown</hi> with the loſſe of the ſaid Record, and denying of his own hand. And whereas Sir <hi>Adam Littleton</hi> Baronet, who had good
+<pb n="2" facs="tcp:116181:3"/>
+               <!-- PDF PAGE 66 -->Title to part of the ſaid Manours and Lands, as in the right of <hi>Dame Audrey</hi> his wife, whoſe inheritance there<g ref="char:EOLhyphen"/>unto was ſought to be impeached by the ſaid Copy of the ſaid pretended Act of Parliament, complained likewiſe againſt the ſaid perſons before their Lordſhips, for the ſaid forgery and publication, in that the ſaid <hi>John Mor<g ref="char:EOLhyphen"/>ris, Leonard Darby, John Harris,</hi> and <hi>Iſab<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Smith,</hi> did produce the ſaid Copy at <hi>Chelmeſford</hi> at Lent Aſſizes, 1646. for the County of <hi>Eſſex,</hi> at a Triall in an Ejecto<g ref="char:EOLhyphen"/>ry forme, brought by <hi>Thomas Smith,</hi> husband of the ſaid <hi>Iſabell,</hi> and Leſſee of the ſaid <hi>John Morris,</hi> againſt <hi>Joſias Clarke</hi> Tenant to the ſaid Sir <hi>Adam Littleton,</hi> of part of the ſaid Lands conteyned in the ſaid pretended Act; And did plead and affirme the ſame to be a true Copy of an Act of Parliament; And the ſaid <hi>Darby</hi> and <hi>Harris</hi> did falſly and perjuriouſly ſweare in open Court at the ſaid Triall, that they had examined the ſaid Copy by them produced with the Record of the ſaid pretended Act, in the Office of the Clerke of the Parliaments; And did there alſo falſly and perjuriouſly ſweare, that they did ſhew that writing to the Clerke of the Parlia<g ref="char:EOLhyphen"/>ments, and that he did acknowledge the ſaid writing to be his own hand; Whereas in truth the ſaid ſubſcrip<g ref="char:EOLhyphen"/>tion to the ſaid pretended Act of Parliament is counter<g ref="char:EOLhyphen"/>feit, and none of the ſaid Clerke of the Parliaments hand; And the ſaid Sir <hi>Adam</hi> further complained of an Exemplification under the Great Seale of <hi>England,</hi> for countenancing the ſaid forged Copy of the ſaid pre<g ref="char:EOLhyphen"/>tended Act, by ſome undue meanes by the ſaid parties thereunto affixed; of the parties ſhewing whereof proofe was made before their Lordſhips.</p>
+            <p>All which being Crimes of a very high and tranſcen<g ref="char:EOLhyphen"/>dent nature, and do concerne the publique Juſtice of the Kingdome, and of this Honourable Houſe, the ſuprea<g ref="char:EOLhyphen"/>meſt Judicatory of this Kingdome; That Acts of Par<g ref="char:EOLhyphen"/>liament, the higheſt Records in this Kingdome, ſhould be framed, invented, forged, and given in evidence, and
+<pb n="3" facs="tcp:116181:3"/>
+               <!-- PDF PAGE 66 -->publiſhed as true Acts of Parliament; and the hand of the Clerke of the Parliaments, a ſworne Officer, forged, counterfeited, and ſubſcribed to the ſame; as that if ſuch bold and andacious acts ſhould not be ſeverely puni<g ref="char:EOLhyphen"/>ſhed, no man can be ſafe in his Life, Perſon, or Eſtate; The ſaid <hi>John Brown,</hi> and Sir <hi>Adam Littleton,</hi> deſired that the perſons aforeſaid might forthwith anſwer the ſaid Charges; and that their Lordſhips would inflict ſuch exemplary puniſhment upon the offendors, as may deterr the like attempts and lewd practiſes in others, and give ſuch fitting reparations as their Lordſhips in their wiſ<g ref="char:EOLhyphen"/>domes ſhould thinke meet.</p>
+            <p>Whereupon the perſons aforeſaid put in their Anſwers to the Premiſſes, and pleaded not guilty; And after the Caſe had been divers daies fully heard by Counſell on both ſides, and witneſſes produced at this Barre, and the whole matter afterwards throughly weighed, deba<g ref="char:EOLhyphen"/>ted, and fully conſidered of by the houſe, The Lords in Parliament aſſembled, being fully ſatisfied of the guilt of the ſaid perſons for the aforeſaid high Crimes char<g ref="char:EOLhyphen"/>ged againſt them, do award and adjudge:</p>
+            <list>
+               <item>1 That the ſaid <hi>John Morris, alias Poyntz,</hi> ſhall pay as a Fine to our Soveraigne Lord the King, the ſumme of one thouſand pounds, <hi>Iſabell Smith</hi> two hundred pounds, <hi>Le<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nard Darby</hi> foure hundred pounds, and <hi>John Harris</hi> foure hundred pounds.</item>
+               <item>2 That the ſaid parties ſhall pay to <hi>John Browne</hi> 
+                  <abbr>Eſq</abbr> Clerke of the Parliaments, for his dammages, five hun<g ref="char:EOLhyphen"/>dred pounds.</item>
+               <item>3 That all the ſaid parties ſhall before their inlarge<g ref="char:EOLhyphen"/>ment out of priſon, be bound to the good behaviour during their lives, before ſome one of His Majeſties Juſtices of His Bench at <hi>Weſtminſter,</hi> with good ſure<g ref="char:EOLhyphen"/>ties.</item>
+               <item>4 That the ſaid Copy of the pretended Act of Par<g ref="char:EOLhyphen"/>liament, falſly affirmed upon Oath to have been ſubſcri<g ref="char:EOLhyphen"/>bed with the name of the ſaid Clerke of the Parliaments,
+<pb n="4" facs="tcp:116181:4"/>
+                  <!-- PDF PAGE 67 -->intituled, <hi>An Act to inable and make good a Conveyance and Aſſurance made of the Mannours of Chipping Onger; No tho<g ref="char:EOLhyphen"/>kenden, Southokenden, and other Lands in the County of Eſſex, and Beaves Markes, alias Buries Markes in London, by James Morris Eſquire, and Gabriel Poyntz Eſquire, to John Poyntz alias Morris and his heires, and to eſtabliſh the ſaid Mannours upon the ſaid John Poyntz alias Morris and his heires, accord<g ref="char:EOLhyphen"/>ing to the ſaid Conveyance,</hi> is hereby declared to be for<g ref="char:EOLhyphen"/>ged and counterfeit; and is by their Lordſhips adjudged and decreed to be for ever damned and cancelled, and never to be pleaded in any Court or Cauſe whatſoever; nor to be admitted to be given in evidence; there being no Record of any ſuch peetended Act of Parliament to warrant the ſame.</item>
+               <item>5 That all the ſaid ſeverall Perſons hereby adjudged guilty of the ſaid crimes, ſhall ever hereafter be made uncapable to be witneſſes in any cauſe whatſoever.</item>
+               <item>6 That <hi>John Brown</hi> Eſquire, Clerk of the Parliaments, is in the judgement of this Houſe free, and clear of, and from all and every the aſperſions, falſities, and charges of the ſaid <hi>John Morris,</hi> alias <hi>Poyntz, Iſabell Smith, Leo<g ref="char:EOLhyphen"/>nard Darby,</hi> and <hi>John Harris</hi> charged, uttered, divulged, and given out by them againſt him, concerning the mat<g ref="char:EOLhyphen"/>ters herein mentioned. And that this Judgement ſhall be openly read and publiſhed in the face of the County of <hi>Eſſex,</hi> at the next Aſſizes to be held for that County</item>
+               <item>7 That the ſaid Parties ſhall bring, or cauſe to be brought into this Houſe by the firſt day of October next, o<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e exemplification under the Great Seal of <hi>England</hi> concerning the Manner of little Munden, in the County of <hi>Hertford;</hi> And the aforeſaid exemplification of the ſaid counterfit Act of Parliament, to which the Great Seal of <hi>England</hi> is charged to have bin unduly and frau<g ref="char:EOLhyphen"/>dulently affixed, that ſo the aforeſaid forged exemplifi<g ref="char:EOLhyphen"/>cationi may be cancelled and vacated.</item>
+               <item>8 That they ſhall be impriſoned during the pleaſure of this Houſe.</item>
+            </list>
+            <closer>
+               <signed>Joh. Brown, Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_judgement">
+            <pb n="5" facs="tcp:116181:4"/>
+            <!-- PDF PAGE 67 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis, 2 Dii Novemb. 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords in Parliament aſſembled, upon the 21 of <hi>Septem.</hi> laſt, g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve Judgement concerning a Copy of a pre<g ref="char:EOLhyphen"/>tended Act of Parliament, in<g ref="char:EOLhyphen"/>titutuled, <hi>An Act to enable and make good a Conveyance and Aſſu<g ref="char:EOLhyphen"/>rance made of the Manours of Chip<g ref="char:EOLhyphen"/>ping Onger, Northokenden, Southokenden, and other Lands in the County of Eſſex, and Beaves Markes, alias Bu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies Markes in London, by</hi> James Morris <hi>
+                  <abbr>Eſq</abbr> and</hi> Gabriel Poyntz <hi>
+                  <abbr>Eſq</abbr> to</hi> John Poyntz, <hi>alias</hi> Morris, <hi>and his Heirs, and to eſtabliſh the ſaid Mannours upon the ſaid</hi> John Poyntz, <hi>ali<g ref="char:EOLhyphen"/>as</hi> Morris, <hi>and his Heires, according to the ſaid Conveyance:</hi> And declared the ſame to be forged and counterfeit, and therefore to be for ever damned and cancelled, as by the ſaid Judgement more at large appeareth.</p>
+            <p>And whereas Dame <hi>Audrey Littleton,</hi> late wife of Sir <hi>Adam Littleton</hi> deceaſed, Sir <hi>Fulke Grevill,</hi> Knight, and <hi>Maurice Barrow</hi> 
+               <abbr>Eſq</abbr> by their Petition exhibited before the Lords in Parliament complained, That notwithſtanding the ſaid Judgement, one <hi>Iſobel Smith</hi> (a Perſon ſentenced by their Lordſhips, and com<g ref="char:EOLhyphen"/>mitted to Newgate for the ſaid Forgery) having pro<g ref="char:EOLhyphen"/>cured the ſaid forged Act of Parliament, and other forged writings, viz. three Fines of the Lands con<g ref="char:EOLhyphen"/>tained in the ſaid forged Act, and a forged Pleading, ſetting forth the uſes of the ſaid forged Fines, to be
+<pb n="6" facs="tcp:116181:5"/>
+               <!-- PDF PAGE 68 -->written in Parchment; and having by ſome ſleight made them to ſeeme as if they had been written long ſince, did foiſt and ſhuffle in the ſame amongſt other Evidences, and writings remaining in the Treaſury of the late Court of Wards; and pretending the ſame to be found there, obtained Copies thereof un<g ref="char:EOLhyphen"/>der the hand of Mr. <hi>Awdeley</hi> Clerk of the ſaid Court, hoping thereby to gaine ſome credit, and authority to the ſaid forgeries, and further to impeach the Ti<g ref="char:EOLhyphen"/>tles of the Petitioners.</p>
+            <p>To which Petition the ſaid <hi>Iſabell Smith</hi> put in her Anſwer, and a day was appointed for hearing the ſame. At which day the ſaid <hi>Iſabell Smith</hi> being pre<g ref="char:EOLhyphen"/>ſent at the Bar, and not making good any of the par<g ref="char:EOLhyphen"/>ticulars in her ſaid Anſwer, nor giving any ſatisfacti<g ref="char:EOLhyphen"/>on to ſuch queſtions as were by their Lordſhips de<g ref="char:EOLhyphen"/>manded of her concerning the ſame. And the ſaid ſeverall writings after full examination by hearing of Councell and Witneſſes produced; and alſo upon view of the ſaid writings (being by their Lordſhips Order brought into the Houſe) manifeſtly appea<g ref="char:EOLhyphen"/>ring to their Lordſhips to be groſſe forgeries: The Lords in Parliament aſſembled do Declare, and adjudge:</p>
+            <p>That the ſaid Parchment writing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, one whereof purporteth a Fine pretended to be leavied at St. Al<g ref="char:EOLhyphen"/>bans, <hi>A die ſancti Martini in quindecim dies, Anno</hi> 37. <hi>Eliz</hi> between <hi>James Morris</hi> 
+               <abbr>Eſq</abbr> and <hi>John Poyntz,</hi> alias <hi>Morris</hi> his ſonne Plaintiffes, and <hi>Gabriel Poyntz,</hi> 
+               <abbr>Eſq</abbr> and <hi>William Cutts</hi> Defendants, of the Mannor of Chipping Onger, and other Lands and Tenements, with the appurtenances in Chipping Onger in the County of Eſſex. One other whereof purporteth a Fine pretended to be leavied at Saint Albans, <hi>A die ſ<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncti Martini in</hi> 15 <hi>dies, Anno</hi> 37 <hi>Eliz</hi> between <hi>J<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes Morris</hi> 
+               <abbr>Eſq</abbr> and <hi>John Poyntz</hi> alias <hi>Morris</hi> his ſonne Plaintiffes, and <hi>Gabriel Poyntz</hi> 
+               <abbr>Eſq</abbr> and <hi>William Cutts,</hi>
+               <pb n="7" facs="tcp:116181:5"/>
+               <!-- PDF PAGE 68 -->Defendants of the Mannours of Northokenden, Poyntz and Groves, with the appurtenances, and of divers Meſſuages, Cottages, Mills, Lands, Meadows, Paſtures, and other Hereditaments in Northwoken<g ref="char:EOLhyphen"/>den, alias Northokenden, Southwokenden, alias Southokenden, Avely Upminſter, alias Upmiſter, Southweal, Brentwood, alias Burntwood, Warley, alias Warley Magna, Childerditch Bulfan, Bown<g ref="char:EOLhyphen"/>ton, alias Bunton, Eaſt Thornedon, Weſt Thorne<g ref="char:EOLhyphen"/>don, Weſt Th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrock, Grayes Thurrock, Chawd<g ref="char:EOLhyphen"/>well, Styfford alias Stiford, Horne-church Baſſel<g ref="char:EOLhyphen"/>don, and Cranham, and of the Rectory of North<g ref="char:EOLhyphen"/>wokenden; alias Northokenden<g ref="char:punc">▪</g> with the appurte<g ref="char:EOLhyphen"/>nances in the ſaid County of Eſſex.</p>
+            <p>One other whereof purporteth a Fine pretended to be leavied at St. Albans, <hi>A d<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſancti Martini in</hi> 15 <hi>dies, Anno.</hi> 37 <hi>Eliz.</hi> betweene <hi>James Morris</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Poyntz, alias Morris,</hi> his ſonne Plaintiffes, and <hi>Gabriel Poyntz</hi> 
+               <abbr>Eſq</abbr> and <hi>William Cutts</hi> 
+               <abbr>Eſq</abbr> Defendants of four Meſſuages, ſix Gardens, and two Acres of Land, with the appurtenances in the Pariſh of St. Katha<g ref="char:EOLhyphen"/>rine Cree-church, London.</p>
+            <p>One other of the ſaid Parchment writings pur<g ref="char:EOLhyphen"/>porteth a Pleading, ſetting forth the uſes of the ſaid Fines, and beginning in theſe words, <q>(viz.) Eſſex. ſſ. <hi>In memorandum de Banco anno triceſinto octavo Elizabeth. viz. inter Record. Termini ſancti Trinitatis Rollo xxi. ex parte Recordationum in Trer. manen. inter alia continetur ut ſequitur (viz.) Memorandum quod nuper invenitur in quodam Rollo extract. de finibus &amp; iſſues Banci in termino Sancti Michalis annus Regni Domini noſtre Elizebethe triceſſi<g ref="char:EOLhyphen"/>mo ſexto &amp; ſeptimo quod Gabriel Poyntz</hi> 
+                  <abbr>Eſq</abbr> &amp;c.</q>
+            </p>
+            <p>And one other whereof purporteth a Copy of a pretended Act of Parliament intituled, <hi>An Act to en<g ref="char:EOLhyphen"/>able and make good a Conveyance and Aſſurance made of the Mannours of Chipping Onger, Northokenden, Southokenden, and other Lands in the County of Eſſex, and Beves Markes,
+<pb n="8" facs="tcp:116181:6"/>
+                  <!-- PDF PAGE 69 -->alias Buries Markes in London, by</hi> James Morris <hi>Eſquire, and</hi> Gabriel Poyntz <hi>
+                  <abbr>Eſq</abbr> to</hi> John Poyntz, <hi>alias Mor<g ref="char:EOLhyphen"/>ris, and his Heires, and to eſtabliſh the ſaid Mannours upon the ſaid</hi> John Poyntz; <hi>alias Morris, and his Heires accor<g ref="char:EOLhyphen"/>ding to the ſaid Conveyance:</hi> Are hereby Declared to be forged and counterfeſt, and are by their Lordſhips adjudged and decreed to be for ever damned and can<g ref="char:EOLhyphen"/>celled, and never to be Pleaded, or admitted to be gi<g ref="char:EOLhyphen"/>ven in Evidence in any Court, or Cauſe whatſoever, there being no Record of any ſuch Fines, Pleading, or Act of Parliament to warrant the ſame; nor any Terme then held at St. Albans, when the ſaid Fines were pretended to be leavied there.</p>
+            <p>And it is further Ordered by the Lords in Parlia<g ref="char:EOLhyphen"/>ment aſſembled, That the ſaid <hi>Iſabell Smith</hi> ſhall by the 27 of <hi>Novemb.</hi> next bring, or cauſe to be brought into this Houſe, the Copies of the ſaid Parchment writings (pretended to be found in the Treaſury of the Court of Wards) ſubſcribed by the ſaid Maſter <hi>Awdely,</hi> that ſo the ſame may be cancelled and vacated.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="memorandum">
+            <pb facs="tcp:116181:6"/>
+            <!-- PDF PAGE 69 -->
+            <opener>
+               <dateline>Eſſex ſſ.</dateline>
+            </opener>
+            <head>In memorandum de Banco Anno triceſi<g ref="char:EOLhyphen"/>mo octavo <hi>Elizabeth, (viz.)</hi> inter Record. ter<g ref="char:EOLhyphen"/>mini Sancti Trinitatis Rollo xxi. ex parte Re<g ref="char:EOLhyphen"/>cordacionum in Theſaurum manen. inter alia continetur ut ſe<g ref="char:EOLhyphen"/>quitur, viz.</head>
+            <p>
+               <hi>MEmorandum quod nuper invenitur in quodam Rollo ex<g ref="char:EOLhyphen"/>tract. de finibus &amp; iſſues Banci &amp; Termina Sancti Mi<g ref="char:EOLhyphen"/>chaelis annis Regni Domine noſtre</hi> Elizabethe <hi>triceſimo ſexto &amp; ſeptimo, quod</hi> Gabriel Poyntz <hi>
+                  <abbr>Eſq</abbr> fecit cum predicta Domina Regina finem pro concordia cum</hi> Jacobo Morris <hi>
+                  <abbr>Eſq</abbr> &amp; aliis de Plito. condicis de Mannor Chipping Onger, alias Anger, ad Caſtram cum appertenanc. &amp;c.</hi>
+            </p>
+            <div type="affidavit">
+               <opener>
+                  <dateline>
+                     <date>5. Novemb. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>I have ſearched the Records of the Common Pleas, <hi>de Termino Sancti Trinitat. Anno triceſimo octavo Reg. Eliz. Rollo viceſimo primo,</hi> and doe finde that there is no inroll<g ref="char:EOLhyphen"/>ment of any ſuch Record there, as is above mentioned.</p>
+               <closer>
+                  <signed>Per Johannem Cocks Cleric. Theſuar. de Com. Banco.</signed>
+               </closer>
+               <postscript>
+                  <p>I Have ſearched in the Treaſurers Remembrancers Of<g ref="char:EOLhyphen"/>fice in the Exchequer amongſt the Records of Trini<g ref="char:EOLhyphen"/>ty Terme, <hi>Anno xxxviii. Regine Elizabeth.</hi> Roll xxi. but doe not finde that there is any ſuch Record or Inroll<g ref="char:EOLhyphen"/>ment, as is above mentioned.</p>
+                  <closer>
+                     <signed>T. Osburne.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <div type="memorandum">
+            <pb facs="tcp:116181:7"/>
+            <!-- PDF PAGE 70 -->
+            <opener>
+               <dateline>
+                  <date>6. May 1647.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>MEmorandum,</hi> that I <hi>Francis Blake,</hi> keeper of the Books for ſearches of Fines and of the Records thereof in the Chyrographers Office, have made dili<g ref="char:EOLhyphen"/>gent ſearch in the ſaid Books, and amongſt the ſaid Re<g ref="char:EOLhyphen"/>cords of Michaelmas Terme 35. and 36. <hi>Eliz.</hi> and all the Termes after till Hillary 38. <hi>Eliz.</hi> and I can finde no fine at all from <hi>Gabriel Poyntz</hi> and <hi>William Cuts,</hi> or either of them to any perſon whatſoever, of any Lands in the Counties of <hi>Eſſex</hi> or <hi>London.</hi> And moreover, I finde by the ſaid Records, that Michaelmas Terme 36. and 37. <hi>Eliz.</hi> was held at the City of Weſtminſter, and not at the Towne of Saint <hi>Albans.</hi> All which I doe hereby (at the requeſt of Sir <hi>Adam Poyntz,</hi> alias <hi>Littleton</hi> Baronet) cer<g ref="char:EOLhyphen"/>tifie to all whom it may concerne.</p>
+            <closer>
+               <signed>F. Blake.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
